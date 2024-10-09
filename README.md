@@ -2,6 +2,11 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/alexseyekimow/"target="_blank">Alexey Ekimow</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/> </h2>
 <h3 align="center"> Junior Ios-Developer from Russia 🇷🇺</h3>
+
+My name is Alexey and I'm a junior iOS developer👨🏽‍💻. 
+
+I like programming and everything related to mobile development. I love to explore and learn about new things.
+
 <hr>
 
 
